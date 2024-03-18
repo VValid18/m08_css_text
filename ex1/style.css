@@ -1,0 +1,32 @@
+
+.p1 {
+  text-align: right;
+  text-decoration: overline wavy crimson;
+  font-size: 17px;
+} 
+.p2 {
+  text-align: center;
+  text-decoration: underline dotted darkolivegreen;
+
+}
+.p3 {
+  text-decoration: overline underline khaki 5px;
+  text-transform: capitalize;
+  line-height: 2;
+
+}
+.p4 {
+  font-size: 40px;
+  font-weight: bold;
+  text-shadow: 
+  1px 1px 10px rgba(60, 177, 255, 10),
+  1px 1px 10px rgba(60, 63, 255, 10);
+  color: navy;
+}
+.p5 {
+  direction: rtl;
+  font-size: 20px;
+  border: 1px solid lightsteelblue;
+  padding: 10px;
+
+}
